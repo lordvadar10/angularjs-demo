@@ -1,0 +1,714 @@
+
+[
+{
+"date": "February 6 ",
+"movies": [
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Andy Wachowski",
+"nameId": "nm0905152"
+},
+{
+"name": "Lana Wachowski",
+"nameId": "nm0905154"
+}
+],
+"filmingLocations": [
+"Chicago",
+"Illinois",
+"USA"
+],
+"genres": [
+"Action",
+"Adventure",
+"Fantasy",
+"Sci-Fi"
+],
+"idIMDB": "tt1617661",
+"languages": [
+"English"
+],
+"metascore": "59/100",
+"originalTitle": "",
+"plot": "Jupiter Jones was born under a night sky, with signs predicting that she was destined for great things. Now grown, Jupiter dreams of the stars but wakes up to the cold reality of a job cleaning toilets and an endless run of bad breaks. Only when Caine, a genetically engineered ex-military hunter, arrives on Earth to track her down does Jupiter begin to glimpse the fate that has been waiting for her all along - her genetic signature marks her as next in line for an extraordinary inheritance that could alter the balance of the cosmos.",
+"rated": "PG-13",
+"rating": "6.7",
+"releaseDate": "20150206",
+"runtime": [
+"127 min"
+],
+"simplePlot": "In a bright and colorful future, a young destitute caretaker gets targeted by a ruthless son of a powerful family that live on a planet in need of a new heir, so she travels with a genetically engineered warrior to the planet in order to stop his tyrant reign.",
+"title": "Jupiter Ascending",
+"urlIMDB": "http://www.imdb.com/title/tt1617661",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTQyNzk2MjA2NF5BMl5BanBnXkFtZTgwMjEwNzk3MjE@._V1_SX214_AL_.jpg",
+"votes": "812",
+"writers": [
+{
+"name": "Andy Wachowski",
+"nameId": "nm0905152"
+},
+{
+"name": "Lana Wachowski",
+"nameId": "nm0905154"
+}
+],
+"year": "2015"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Paul Tibbitt",
+"nameId": "nm1196684"
+}
+],
+"filmingLocations": [
+"Savannah",
+"Georgia",
+"USA"
+],
+"genres": [
+"Animation",
+"Adventure",
+"Comedy",
+"Family"
+],
+"idIMDB": "tt2279373",
+"languages": [
+"English"
+],
+"metascore": "",
+"originalTitle": "",
+"plot": "SpongeBob goes on a quest to discover a stolen recipe that takes him to our dimension, our world, where he tangles with a pirate.",
+"rated": "",
+"rating": "7.5",
+"releaseDate": "20150206",
+"runtime": [
+"93 min"
+],
+"simplePlot": "SpongeBob goes on a quest to discover a stolen recipe that takes him to our dimension, our world, where he tangles with a pirate.",
+"title": "The SpongeBob Movie: Sponge Out of Water",
+"urlIMDB": "http://www.imdb.com/title/tt2279373",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMjYyNDczNTE0MF5BMl5BanBnXkFtZTgwNjkzNDYxMzE@._V1_SX214_AL_.jpg",
+"votes": "640",
+"writers": [
+{
+"name": "Glenn Berger",
+"nameId": "nm0074184"
+},
+{
+"name": "Jonathan Aibel",
+"nameId": "nm0008743"
+}
+],
+"year": "2015"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Jody Lee Lipes",
+"nameId": "nm1464511"
+}
+],
+"filmingLocations": [
+"New York City",
+"New York",
+"USA"
+],
+"genres": [
+"Documentary",
+"Drama",
+"Music",
+"Sport"
+],
+"idIMDB": "tt3164198",
+"languages": [
+"English"
+],
+"metascore": "",
+"originalTitle": "",
+"plot": "From first rehearsal to world premiere, Ballet 422 takes us backstage at New York City Ballet as emerging choreographer Justin Peck crafts a new work.",
+"rated": "PG",
+"rating": "6.2",
+"releaseDate": "20150206",
+"runtime": [
+"72 min"
+],
+"simplePlot": "From first rehearsal to world premiere, Ballet 422 takes us backstage at New York City Ballet as emerging choreographer Justin Peck crafts a new work.",
+"title": "Ballet 422",
+"urlIMDB": "http://www.imdb.com/title/tt3164198",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTUxMjk2MDM2NF5BMl5BanBnXkFtZTgwOTMzOTUzMzE@._V1_SX214_AL_.jpg",
+"votes": "43",
+"writers": [
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA",
+"UK",
+"Canada",
+"China"
+],
+"directors": [
+{
+"name": "Sergey Bodrov",
+"nameId": "nm0091076"
+}
+],
+"filmingLocations": [
+"Hollywood",
+"Los Angeles",
+"California",
+"USA"
+],
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"idIMDB": "tt1121096",
+"languages": [
+"English"
+],
+"metascore": "",
+"originalTitle": "",
+"plot": "John Gregory, who is a seventh son of a seventh son and also the local spook, has protected his country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't? Should he trust the girl with pointy shoes? How can Thomas stand a chance against Mother Malkin, the most dangerous witch in the county?",
+"rated": "PG-13",
+"rating": "5.9",
+"releaseDate": "20150206",
+"runtime": [
+"102 min"
+],
+"simplePlot": "Young Thomas is apprenticed to the local Spook to learn to fight evil spirits. His first great challenge comes when the powerful Mother Malkin escapes her confinement while the Spook is away.",
+"title": "Seventh Son",
+"urlIMDB": "http://www.imdb.com/title/tt1121096",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMjAxNTg2MDkyN15BMl5BanBnXkFtZTgwNzA3NzY1MjE@._V1_SX214_AL_.jpg",
+"votes": "5,149",
+"writers": [
+{
+"name": "Charles Leavitt",
+"nameId": "nm0495378"
+},
+{
+"name": "Steven Knight",
+"nameId": "nm1140275"
+}
+],
+"year": "2014"
+}
+]
+},
+{
+"date": "In Theaters Now",
+"movies": [
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Rob Cohen",
+"nameId": "nm0003418"
+}
+],
+"filmingLocations": [
+"Los Angeles",
+"California",
+"USA"
+],
+"genres": [
+"Thriller"
+],
+"idIMDB": "tt3181822",
+"languages": [
+"English"
+],
+"metascore": "30/100",
+"originalTitle": "",
+"plot": "When a handsome, charming teenager named Noah (Ryan Guzman) moves in next door, newly separated high-school teacher Claire Peterson (Jennifer Lopez) encourages his friendship and engages in a little bit of harmless (or so she thinks) flirtation. Although Noah spends much of the time hanging out with Claire's son, the teen's attraction to her is palpable. One night, Claire gives in to temptation and lets Noah seduce her, but when she tries to end the relationship, he turns violent.",
+"rated": "R",
+"rating": "4.5",
+"releaseDate": "20150123",
+"runtime": [
+"91 min"
+],
+"simplePlot": "A newly divorced woman falls for a younger man who has recently moved in across the street from her, but their torrid affair soon takes a dangerous turn.",
+"title": "The Boy Next Door",
+"urlIMDB": "http://www.imdb.com/title/tt3181822",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTgxNTEyMTYzOV5BMl5BanBnXkFtZTgwNzQ4OTg5MjE@._V1_SX214_AL_.jpg",
+"votes": "2,229",
+"writers": [
+{
+"name": "Barbara Curry",
+"nameId": "nm3204152"
+}
+],
+"year": "2015"
+},
+{
+"countries": [
+"UK",
+"USA"
+],
+"directors": [
+{
+"name": "Morten Tyldum",
+"nameId": "nm0878763"
+}
+],
+"filmingLocations": [
+"London",
+"England",
+"UK"
+],
+"genres": [
+"Biography",
+"Drama",
+"Thriller",
+"War"
+],
+"idIMDB": "tt2084970",
+"languages": [
+"English",
+"German"
+],
+"metascore": "73/100",
+"originalTitle": "",
+"plot": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+"rated": "PG-13",
+"rating": "8.2",
+"releaseDate": "20141225",
+"runtime": [
+"114 min"
+],
+"simplePlot": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
+"title": "The Imitation Game",
+"urlIMDB": "http://www.imdb.com/title/tt2084970",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+"votes": "103,846",
+"writers": [
+{
+"name": "Andrew Hodges",
+"nameId": "nm0388132"
+},
+{
+"name": "Graham Moore",
+"nameId": "nm2441699"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Jeremy Garelick",
+"nameId": "nm1275670"
+}
+],
+"filmingLocations": [
+"Los Angeles",
+"California",
+"USA"
+],
+"genres": [
+"Comedy",
+"Romance"
+],
+"idIMDB": "tt0884732",
+"languages": [
+"English"
+],
+"metascore": "35/100",
+"originalTitle": "",
+"plot": "Doug Harris (Josh Gad) is a lovable but socially awkward groom-to-be with a problem: he has no best man. With less than two weeks to go until he marries the girl of his dreams (Kaley Cuoco-Sweeting), Doug is referred to Jimmy Callahan (Kevin Hart), owner and CEO of Best Man, Inc., a company that provides flattering best men for socially challenged guys in need. What ensues is a hilarious wedding charade as they try to pull off the big con, and an unexpected budding bromance between Doug and his fake best man Jimmy.",
+"rated": "R",
+"rating": "6.9",
+"releaseDate": "20150116",
+"runtime": [
+"101 min"
+],
+"simplePlot": "Two weeks shy of his wedding, a socially awkward guy enters into a charade by hiring the owner of a company that provides best men for grooms in need.",
+"title": "The Wedding Ringer",
+"urlIMDB": "http://www.imdb.com/title/tt0884732",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTk3MjQyNTUxNl5BMl5BanBnXkFtZTgwNjM3Mjk1MzE@._V1_SX214_AL_.jpg",
+"votes": "3,574",
+"writers": [
+{
+"name": "Jeremy Garelick",
+"nameId": "nm1275670"
+},
+{
+"name": "Jay Lavender",
+"nameId": "nm1191891"
+}
+],
+"year": "2015"
+},
+{
+"countries": [
+"UK",
+"France"
+],
+"directors": [
+{
+"name": "Paul King",
+"nameId": "nm1653753"
+}
+],
+"filmingLocations": [
+"London",
+"England",
+"UK"
+],
+"genres": [
+"Comedy",
+"Family"
+],
+"idIMDB": "tt1109624",
+"languages": [
+"English"
+],
+"metascore": "77/100",
+"originalTitle": "",
+"plot": "A young Peruvian bear with a passion for all things British travels to London in search of a home. Finding himself lost and alone at Paddington Station, he begins to realize that city life is not all he had imagined - until he meets the kindly Brown family, who read the label around his neck ('Please look after this bear. Thank you.') and offer him a temporary haven. It looks as though his luck has changed until this rarest of bears catches the eye of a museum taxidermist.",
+"rated": "PG",
+"rating": "7.6",
+"releaseDate": "20150116",
+"runtime": [
+"95 min"
+],
+"simplePlot": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+"title": "Paddington",
+"urlIMDB": "http://www.imdb.com/title/tt1109624",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTAxOTMwOTkwNDZeQTJeQWpwZ15BbWU4MDEyMTI1NjMx._V1_SY317_CR0,0,214,317_AL_.jpg",
+"votes": "10,481",
+"writers": [
+{
+"name": "Paul King",
+"nameId": "nm1653753"
+},
+{
+"name": "Hamish McColl",
+"nameId": "nm0566100"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Clint Eastwood",
+"nameId": "nm0000142"
+}
+],
+"filmingLocations": [
+"Morocco"
+],
+"genres": [
+"Action",
+"Biography",
+"Drama",
+"War"
+],
+"idIMDB": "tt2179136",
+"languages": [
+"English"
+],
+"metascore": "72/100",
+"originalTitle": "",
+"plot": "Chris Kyle was nothing more than a Texan man who wanted to become a cowboy, but in his thirties he found out that maybe his life needed something different, something where he could express his real talent, something that could help America in its fight against terrorism. So he joined the SEALs in order to become a sniper. After marrying, Kyle and the other members of the team are called for their first tour of Iraq. Kyle's struggle isn't with his missions, but about his relationship with the reality of the war and, once returned at home, how he manages to handle it with his urban life, his wife and kids.",
+"rated": "R",
+"rating": "7.6",
+"releaseDate": "20150116",
+"runtime": [
+"132 min"
+],
+"simplePlot": "Navy SEAL sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+"title": "American Sniper",
+"urlIMDB": "http://www.imdb.com/title/tt2179136",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg",
+"votes": "88,381",
+"writers": [
+{
+"name": "Jason Hall",
+"nameId": "nm0355699"
+},
+{
+"name": "Chris Kyle",
+"nameId": "nm4881574"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"France"
+],
+"directors": [
+{
+"name": "Olivier Megaton",
+"nameId": "nm0576298"
+}
+],
+"filmingLocations": [
+"University of Southern California",
+"Los Angeles",
+"California",
+"USA"
+],
+"genres": [
+"Action",
+"Thriller"
+],
+"idIMDB": "tt2446042",
+"languages": [
+"English",
+"Russian"
+],
+"metascore": "26/100",
+"originalTitle": "",
+"plot": "Liam Neeson returns as ex-covert operative Bryan Mills, whose long awaited reconciliation with his ex-wife is tragically cut short when she is brutally murdered. Consumed with rage, and framed for the crime, he goes on the run to evade the relentless pursuit of the CIA, FBI and the police. For one last time, Mills must use his \"particular set of skills,\" to track down the real killers, exact his unique brand of justice, and protect the only thing that matters to him now - his daughter.",
+"rated": "PG-13",
+"rating": "6.2",
+"releaseDate": "20150109",
+"runtime": [
+"109 min"
+],
+"simplePlot": "Ex-government operative Bryan Mills is accused of a ruthless murder he never committed or witnessed. As he is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name.",
+"title": "Taken 3",
+"urlIMDB": "http://www.imdb.com/title/tt2446042",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_SX214_AL_.jpg",
+"votes": "39,177",
+"writers": [
+{
+"name": "Luc Besson",
+"nameId": "nm0000108"
+},
+{
+"name": "Robert Mark Kamen",
+"nameId": "nm0436543"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "Gary Rydstrom",
+"nameId": "nm0003977"
+}
+],
+"filmingLocations": [
+],
+"genres": [
+"Animation",
+"Family",
+"Fantasy",
+"Musical"
+],
+"idIMDB": "tt4191054",
+"languages": [
+"English"
+],
+"metascore": "24/100",
+"originalTitle": "",
+"plot": "\"Strange Magic,\" a new animated film, is a madcap fairy tale musical inspired by \"A Midsummer Night's Dream.\" Popular songs from the past six decades help tell the tale of a colorful cast of goblins, elves, fairies and imps, and their hilarious misadventures sparked by the battle over a powerful potion.",
+"rated": "PG",
+"rating": "5.6",
+"releaseDate": "20150123",
+"runtime": [
+"99 min"
+],
+"simplePlot": "Goblins, elves, fairies and imps, and their misadventures sparked by the battle over a powerful potion.",
+"title": "Strange Magic",
+"urlIMDB": "http://www.imdb.com/title/tt4191054",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMjA0NjU3MTU5OF5BMl5BanBnXkFtZTgwMTYyMDQ3MzE@._V1_SX214_AL_.jpg",
+"votes": "689",
+"writers": [
+{
+"name": "Irene Mecchi",
+"nameId": "nm0575293"
+},
+{
+"name": "Gary Rydstrom",
+"nameId": "nm0003977"
+}
+],
+"year": "2015"
+},
+{
+"countries": [
+"UK",
+"USA"
+],
+"directors": [
+{
+"name": "Ava DuVernay",
+"nameId": "nm1148550"
+}
+],
+"filmingLocations": [
+"Marietta",
+"Georgia",
+"USA"
+],
+"genres": [
+"Biography",
+"Drama",
+"History"
+],
+"idIMDB": "tt1020072",
+"languages": [
+"English"
+],
+"metascore": "89/100",
+"originalTitle": "",
+"plot": "The unforgettable true story chronicles the tumultuous three-month period in 1965, when Dr. Martin Luther King, Jr. led a dangerous campaign to secure equal voting rights in the face of violent opposition. The epic march from Selma to Montgomery culminated in President Johnson signing the Voting Rights Act of 1965, one of the most significant victories for the civil rights movement. Director Ava DuVernay's \"Selma\" tells the story of how the revered leader and visionary Dr. Martin Luther King, Jr and his brothers and sisters in the movement prompted change that forever altered history.",
+"rated": "PG-13",
+"rating": "7.7",
+"releaseDate": "20150109",
+"runtime": [
+"128 min"
+],
+"simplePlot": "A chronicle of Martin Luther King's campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.",
+"title": "Selma",
+"urlIMDB": "http://www.imdb.com/title/tt1020072",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BODMxNjAwODA2Ml5BMl5BanBnXkFtZTgwMzc0NjgzMzE@._V1_SX214_AL_.jpg",
+"votes": "13,370",
+"writers": [
+{
+"name": "Paul Webb",
+"nameId": "nm2298096"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA",
+"UK",
+"Canada"
+],
+"directors": [
+{
+"name": "Rob Marshall",
+"nameId": "nm0551128"
+}
+],
+"filmingLocations": [
+"Shepperton Studios",
+"Shepperton",
+"Surrey",
+"England",
+"UK"
+],
+"genres": [
+"Adventure",
+"Comedy",
+"Fantasy",
+"Musical"
+],
+"idIMDB": "tt2180411",
+"languages": [
+"English"
+],
+"metascore": "69/100",
+"originalTitle": "",
+"plot": "Into the Woods is a modern twist on the beloved Brothers Grimm fairy tales in a musical format that follows the classic tales of Cinderella, Little Red Riding Hood, Jack and the Beanstalk, and Rapunzel-all tied together by an original story involving a baker and his wife, their wish to begin a family and their interaction with the witch who has put a curse on them.",
+"rated": "PG",
+"rating": "6.4",
+"releaseDate": "20141225",
+"runtime": [
+"125 min"
+],
+"simplePlot": "A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.",
+"title": "Into the Woods",
+"urlIMDB": "http://www.imdb.com/title/tt2180411",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1_SX214_AL_.jpg",
+"votes": "36,994",
+"writers": [
+{
+"name": "James Lapine",
+"nameId": "nm0487567"
+},
+{
+"name": "James Lapine",
+"nameId": "nm0487567"
+}
+],
+"year": "2014"
+},
+{
+"countries": [
+"USA"
+],
+"directors": [
+{
+"name": "David Koepp",
+"nameId": "nm0462895"
+}
+],
+"filmingLocations": [
+"Old Royal Naval College",
+"Greenwich",
+"London",
+"England",
+"UK"
+],
+"genres": [
+"Action",
+"Comedy"
+],
+"idIMDB": "tt3045616",
+"languages": [
+"English"
+],
+"metascore": "28/100",
+"originalTitle": "",
+"plot": "Juggling some angry Russians, the British Mi5, his impossibly leggy wife and an international terrorist, debonair art dealer and part time rogue Charlie Mortdecai must traverse the globe armed only with his good looks and special charm in a race to recover a stolen painting rumored to contain the code to a lost bank account filled with Nazi gold.",
+"rated": "R",
+"rating": "5.5",
+"releaseDate": "20150123",
+"runtime": [
+"107 min"
+],
+"simplePlot": "Juggling angry Russians, the British Mi5, and an international terrorist, debonair art dealer and part time rogue Charlie Mortdecai races to recover a stolen painting rumored to contain a code that leads to lost Nazi gold.",
+"title": "Mortdecai",
+"urlIMDB": "http://www.imdb.com/title/tt3045616",
+"urlPoster": "http://ia.media-imdb.com/images/M/MV5BMjM3NDcxOTM5Ml5BMl5BanBnXkFtZTgwNTEwNzE0MzE@._V1_SX214_AL_.jpg",
+"votes": "4,784",
+"writers": [
+{
+"name": "Eric Aronson",
+"nameId": "nm0036962"
+},
+{
+"name": "Kyril Bonfiglioli",
+"nameId": "nm5795768"
+}
+],
+"year": "2015"
+}
+]
+}
+]
+
